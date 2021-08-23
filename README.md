@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/130460361-871182e0-2571-467e-aca5-20f5d9c2ddd4.png" align="left" height="150px" width="150px">
+    <h1># Recriando a Interface do Netflix</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
     </p>
 </p>      
 
